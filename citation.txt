@@ -1,0 +1,8 @@
+@article{REPO374,
+    author = "Wei, Kang and Li, Jun and Ding, Ming and Ma, Chuan and Yang, Howard H. and Farokhi, Farhad and Jin, Shi and Quek, Tony Q. S. and Vincent Poor, H.",
+    journal = "IEEE Transactions on Information Forensics and Security",
+    pages = "3454-3469",
+    title = "{Federated Learning With Differential Privacy: Algorithms and Performance Analysis}",
+    volume = "15",
+    year = "2020"
+}
